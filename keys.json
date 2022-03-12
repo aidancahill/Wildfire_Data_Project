@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "wildfiredataproject",
+  "private_key_id": "52c49b8cb240df2e6d7f7b3f81e682caedeb077c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDIc1RtQY+MMtiK\nS8HtS71GTEqzj7fQNDp2pzmwuJfNMbkKmlqOyGwNf/SY9TqF6zUb3PtuL9ypESpj\n+OIYhO9xJhtENhx+HVTDgHttd7AOfzIP7v3YxrpfqyqK/VpAhJxG1fNQ/mF4X8Ng\nNoO12RiIbXJ8PWtCkCkBx2lxeLor/+woCzpbVwKzwaqtkfyxr4i3oSxqLXVHEYG9\nfFa7pe+2it16K4dzj39WjUzESRAY82AwDBGZhNolTt/x/ut8XaiEdwJAZy+pBFzf\nEQR4HQq0bKJeX3wrVZvjEVTeocDn4+A6Clz2g00olIPo3w/HwozQEpc9cG0NL15r\nGgO/w6fZAgMBAAECggEAFUe1H1I1+JbPSUNIp7YCNovT5GMuCvL4f+853yqBpx2P\nvPHtCjp5yica4wApwdzaCwa3RJfdL6+sVeeurRazysnWXDP4a2UWwhiKQfFSZf+X\n43wmQ9S5JX3o6s+BvNa3NofxKFiRJXPZLIYtDmmpQpaH8Guezva5+7/dUFgWP6Rg\nFm/mCCj+16zcSrd8+I67wD7oLAJw4F1FLsJ4dEEl5KTcTZwzJ+LY+GtbdoeuzlTP\nUz64U8eI8lzdSmNulP3EXrYFuvPuW21bji0GsINQIiH1RRZ+3Q9HfgcD7hVqvcgN\nUuHaPFNPTRBgqCtmwDNG5Ps5TXJj906Hbq9NDORApwKBgQDurP9mzyiD9OaxH1Kd\nmm51rhiQJXtEps8h1FJG74BIu5P/Q9khQmNX9H1H6vjmwe02yWjh+v5QVrj3grax\npX3bSHq0HrBS57qZ66k6s5R8PdmMZvOG8NSCHb2eWkdQIVQAAqPh+ucZkfcROhIr\n9gTDiE9TiWcQ5G1CvKpPciew6wKBgQDXAAqmaqRiuFEbF18eVIv+5JFCnu5j9kME\nTxlGgMmaxaheQl8/yyPqxawpgCwbzIYqSDAk8uH7yF/Lpt70/8JCs934U7sefoQZ\nsYC9cKQg+2/zSSIczKEzxgHmtu7zbUALrGt2Nhy9VZxDLdBetdTaZhiB9C5lrotd\n9Zt7Q5u5SwKBgEVA3TqvkUn4nZd3RzmDvdlXkrkApyvcWu2t9dGvXMG968t9nFsS\nMFEtF8zuWRpb2sCy4EPx2CjngPQQcYJKSqJ9/VyWKwNjSbmvr4Lg6IzERYN/u9nD\nt2Wpy4NPHrIZeY4nNfY0HypEODQ/bVZkJC24N4w9qjI0lZ9vrtsufGXRAoGAeRVX\n6iNTExn064n9EsrQ0SuOt3NklL2DPrEBbhhn8hdxXCyLEhVo0/ahn/nEXZ+Qy809\n+AElzjQp5zrChD5p/EDqOMmHL4RXB1VVSNtgRAb3JI/Ce2+vNcZFGddauZOEp05i\ncv/ErcjCKX9qw3wqNRmcocuQOcnUSYViHEiWMgMCgYAVRUqbA1RGp5fMf6jLEmPi\ntn+q8kWJI7kOFAraFxHpR3Wc7bOBer9jwBNrGggknmX/sQBQEBCGnkyRkF+p1v2K\nWQpgMOPAeXAGqvK6CXI43AFvnOc0eORZi+nCs0dEqXCAHvg/1duaBgHWo8DrZpIa\ndXoRx1NvaeOxnq7vy1ceig==\n-----END PRIVATE KEY-----\n",
+  "client_email": "aidancahill@wildfiredataproject.iam.gserviceaccount.com",
+  "client_id": "115995729566233193908",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aidancahill%40wildfiredataproject.iam.gserviceaccount.com"
+}
